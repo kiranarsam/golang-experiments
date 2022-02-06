@@ -8,6 +8,8 @@ import (
 
 func main() {
 
-  cosnt s = ""
+  cosnt s = "สวัสดี"
 
 }
+
+r == 'ส'
